@@ -4,4 +4,4 @@
 
 <h1 style="text-align: center">基于Vue的状态管理器</h1>
 
-中文 ｜ [English](./README.en.md)
+English ｜ [中文](./README.md)
